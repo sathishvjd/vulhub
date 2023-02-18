@@ -1,4 +1,4 @@
-FROM tomcat:8.5.84
+FROM tomcat:11.0
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
