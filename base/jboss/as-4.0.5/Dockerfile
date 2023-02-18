@@ -1,4 +1,4 @@
-FROM openjdk:7-jre
+FROM openjdk:8u342-jre
 LABEL maintainer="root <root@leavesongs.com>"
 
 # JBoss version
