@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk
+FROM openjdk:18.0-jdk
 LABEL maintainer="phithon <root@leavesongs.com>"
 
 ENV GLASSFISH_HOME    /usr/local/glassfish4
