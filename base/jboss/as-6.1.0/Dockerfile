@@ -1,4 +1,4 @@
-FROM openjdk:8u342-jre
+FROM openjdk:20-slim
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
