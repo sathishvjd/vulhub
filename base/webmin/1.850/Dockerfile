@@ -1,4 +1,4 @@
-FROM buildpack-deps:jessie-curl
+FROM buildpack-deps:kinetic-curl
 
 COPY docker-entrypoint.sh /docker-entrypoint.sh
 
