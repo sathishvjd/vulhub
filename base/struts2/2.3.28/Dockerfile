@@ -1,4 +1,4 @@
-FROM maven:3-jdk-8
+FROM maven:3.9-amazoncorretto-17
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
