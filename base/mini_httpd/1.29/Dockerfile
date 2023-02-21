@@ -1,4 +1,4 @@
-FROM buildpack-deps:jessie-curl
+FROM buildpack-deps:kinetic-curl
 
 COPY debian.patch /debian.patch
 
