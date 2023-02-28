@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk
+FROM openjdk:16.0.2-jdk
 
 ARG JETTY_BASE=/opt/jetty
 RUN set -ex \
