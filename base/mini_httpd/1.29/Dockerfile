@@ -1,4 +1,4 @@
-FROM buildpack-deps:kinetic-curl
+FROM buildpack-deps:22.10-curl
 
 COPY debian.patch /debian.patch
 
